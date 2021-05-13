@@ -17,7 +17,7 @@ Projeto demonstrativo apenas para pratica de front end
 
 ###  Demonstração 💻
 
-![gif](https://github.com/katiacih/wildbeast/tree/main/res/wildbeast.gif)
+![gif](https://github.com/katiacih/wildbeast/blob/main/res/wildbeast.gif)
 
 
 #  Autor 👩🏻‍💻
